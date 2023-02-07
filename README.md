@@ -9,11 +9,19 @@ the product details and can also order these product.
 
 # Features
 Easy login and registration
+
 User Profile 
+
 Search bar
+
 Add to cart
+
 Payment methods
+
 Detailed product information
+
 Update Product
+
 Delete Product 
+
 Logout
