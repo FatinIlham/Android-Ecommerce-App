@@ -25,3 +25,22 @@ Update Product
 Delete Product 
 
 Logout
+
+
+# System Overview: Tools
+
+Platform  
+      
+      Android Studio
+      
+Language: 
+      
+      JAVA
+      
+Framework: 
+      
+      XML
+      
+Database: 
+      
+      Firebase
