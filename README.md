@@ -48,6 +48,8 @@ Database:
 
 # Screenshot
 
+<img src="https://user-images.githubusercontent.com/61835955/217209261-cafb5198-c156-42dc-8384-a67a735b4eb3.jpg" width="400px"/>
+
 ![Screenshot_20230207-124253_E-commerce](https://user-images.githubusercontent.com/61835955/217209261-cafb5198-c156-42dc-8384-a67a735b4eb3.jpg)
 
 ![Screenshot_20230207-124315_E-commerce](https://user-images.githubusercontent.com/61835955/217208608-039c26cd-d3b6-403b-b2af-26059153cc99.jpg)
